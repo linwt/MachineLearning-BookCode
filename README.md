@@ -9,4 +9,6 @@
 - 笔记
   - [《机器学习》(西瓜书) 周志华](https://github.com/Vay-keen/Machine-learning-learning-notes)  
   - [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
-  - [BAT机器学习面试1000题系列](https://blog.csdn.net/v_july_v/article/details/78121924)
+  - [BAT机器学习面试1000题系列](https://blog.csdn.net/v_july_v/article/details/78121924)  
+  - [Spark Mllib算法研究和源码分析](https://github.com/linwt/spark-ml-source-analysis)
+  - [AiLearning: 机器学习、深度学习、自然语言处理](https://github.com/linwt/AiLearning)
