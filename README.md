@@ -1,4 +1,4 @@
-# MachineLearning-BookCode
+# MachineLearning-Notes
 
 - 书籍源码  
   - [《Spark机器学习》[南非]Nick Pentreath](https://github.com/tophua/spark-machine-learning-book) 
@@ -10,5 +10,6 @@
   - [《机器学习》(西瓜书) 周志华](https://github.com/Vay-keen/Machine-learning-learning-notes)  
   - [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions)
   - [BAT机器学习面试1000题系列](https://blog.csdn.net/v_july_v/article/details/78121924)  
-  - [Spark Mllib算法研究和源码分析](https://github.com/linwt/spark-ml-source-analysis)
-  - [AiLearning: 机器学习、深度学习、自然语言处理](https://github.com/linwt/AiLearning)
+  - [Spark Mllib算法研究和源码分析](https://github.com/endymecy/spark-ml-source-analysis)
+  - [AiLearning: 机器学习、深度学习、自然语言处理](https://github.com/apachecn/AiLearning)  
+  - [吴恩达老师的深度学习课程笔记及资源](https://github.com/fengdu78/deeplearning_ai_books)  
